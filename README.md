@@ -18,5 +18,5 @@ To master cloud tech, break poverty cycles, and uplift underprivileged youth thr
 See `/daily-logs/` folder (coming soon)
 
 ## License
-MIT
+Apache 2.0
 
